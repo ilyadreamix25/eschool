@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">єШкола</string>
+    <string name="diary">Щоденник</string>
+    <string name="timetable">Розклад уроків</string>
+    <string name="search">Пошук</string>
+    <string name="communities">Спільноти</string>
+    <string name="for_students">Для учнів</string>
+    <string name="do_you_have_an_account">Ви вже зареєстровані?</string>
+    <string name="sign_in">Вхід</string>
+    <string name="sign_up">Реєстрація</string>
+    <string name="by_token">За кодом</string>
+    <string name="sign_up_by_teacher_token">Введіть код, який Вам надав Ваш учитель</string>
+    <string name="token">Код</string>
+    <string name="create_password">Вигадайте та введіть свій пароль</string>
+    <string name="password">Пароль</string>
+    <string name="back">Назад</string>
+    <string name="invalid_request">Невірний запрос! Будь ласка, оновіть додаток до останньої версії</string>
+    <string name="internal_server_error">Внутрішня помилка додатку! Будь ласка, оновіть додаток до останньої версії</string>
+    <string name="not_found">Запрошена інформація була видалена або переміщена</string>
+    <string name="too_many_requests">Дуже багато запитів! Будь ласка, передохніть</string>
+    <string name="bad_auth">Сесія закінчилася. Будь ласка, увійдіть у додаток ще раз</string>
+    <string name="unknown_error">Невідома помилка. Будь ласка, оновіть додаток до останньої версії</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="already_activated">Цей код вже був активований!</string>
+    <string name="error">Помилка %1$d</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eSchool</string>
+    <string name="diary">Diary</string>
+    <string name="timetable">Timetable</string>
+    <string name="search">Search</string>
+    <string name="communities">Communities</string>
+    <string name="for_students">Students</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="by_token">By token</string>
+    <string name="sign_up_by_teacher_token">Insert token provided by your teacher</string>
+    <string name="token">Token</string>
+    <string name="create_password">Pick and insert your password</string>
+    <string name="password">Password</string>
+    <string name="back">Back</string>
+    <string name="invalid_request">Invalid request! Please update the app to the last version</string>
+    <string name="internal_server_error">Internal app error! Please update the app to the last version</string>
+    <string name="not_found">Requested information was moved or deleted</string>
+    <string name="too_many_requests">Too many requests! Please take a breather!</string>
+    <string name="bad_auth">Session expired. Please relogin</string>
+    <string name="unknown_error">Unknown error. Please update the app to the last version</string>
+    <string name="error">Error %1$d</string>
+    <string name="already_activated">This token was already activated!</string>
+</resources>
