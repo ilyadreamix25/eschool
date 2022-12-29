@@ -15,13 +15,18 @@
     <string name="create_password">Вигадайте та введіть свій пароль</string>
     <string name="password">Пароль</string>
     <string name="back">Назад</string>
-    <string name="invalid_request">Невірний запрос! Будь ласка, оновіть додаток до останньої версії</string>
+    <string name="invalid_request">Невірний запит! Будь ласка, оновіть додаток до останньої версії</string>
     <string name="internal_server_error">Внутрішня помилка додатку! Будь ласка, оновіть додаток до останньої версії</string>
-    <string name="not_found">Запрошена інформація була видалена або переміщена</string>
+    <string name="not_found">Ми не знайшли запитану інформацію. Будь ласка, перевірте ваші дані</string>
     <string name="too_many_requests">Дуже багато запитів! Будь ласка, передохніть</string>
     <string name="bad_auth">Сесія закінчилася. Будь ласка, увійдіть у додаток ще раз</string>
     <string name="unknown_error">Невідома помилка. Будь ласка, оновіть додаток до останньої версії</string>
     <string name="ok" translatable="false">OK</string>
     <string name="already_activated">Цей код вже був активований!</string>
-    <string name="error">Помилка %1$d</string>
+    <string name="error_f">Помилка %1$d</string>
+    <string name="account_banned">Ваш акаунт був заблокований!</string>
+    <string name="account_deleted">Ваш акаунт був видалений!</string>
+    <string name="expired">Час використання вичерпано</string>
+    <string name="invalid_token_length">Код має мати 8 символів</string>
+    <string name="invalid_password_length">Пароль має мати від 6 до 36 символів</string>
 </resources>

@@ -17,10 +17,15 @@
     <string name="back">Back</string>
     <string name="invalid_request">Invalid request! Please update the app to the last version</string>
     <string name="internal_server_error">Internal app error! Please update the app to the last version</string>
-    <string name="not_found">Requested information was moved or deleted</string>
+    <string name="not_found">We could not find requested information. Please check your data</string>
     <string name="too_many_requests">Too many requests! Please take a breather!</string>
     <string name="bad_auth">Session expired. Please relogin</string>
     <string name="unknown_error">Unknown error. Please update the app to the last version</string>
-    <string name="error">Error %1$d</string>
+    <string name="error_f">Error %1$d</string>
     <string name="already_activated">This token was already activated!</string>
+    <string name="account_banned">Your account was banned!</string>
+    <string name="account_deleted">Your account was removed!</string>
+    <string name="expired">Time to use has expired</string>
+    <string name="invalid_token_length">Token must contain 8 symbols</string>
+    <string name="invalid_password_length">Password must contain from 6 to 36 symbols</string>
 </resources>

@@ -10,11 +10,13 @@ import ua.ilyadreamix.compose.ui.theme.TransparentSystemBarsTheme
 private val appPalette = Palette(
     light = lightColors(
         primary = ESchoolBlue,
-        background = Color.White
+        background = Color.White,
+        onPrimary = Color.White
     ),
     dark = darkColors(
         primary = ESchoolBlue,
-        background = Color.Black
+        background = Color.Black,
+        onPrimary = Color.White
     )
 )
 
